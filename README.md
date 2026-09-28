@@ -171,9 +171,33 @@ Focused on computer applications, software development, programming, databases, 
 
 ### 🤖 AI & Emerging Technologies
 - **[Certification Name]** — [Provider]
-
+---
 ---
 
+## 💼 Experience
+
+### Full Stack Development
+
+- Developed web applications using modern frontend and backend technologies.
+- Worked with React.js, JavaScript, Node.js, Express.js, and databases.
+- Built user-focused interfaces with responsive design principles.
+- Integrated frontend applications with backend APIs.
+
+### Java Development
+
+- Developed Core Java applications using OOP principles.
+- Worked with classes, interfaces, inheritance, exception handling, collections, and file handling.
+- Implemented role-based functionality and validation in Java projects.
+
+### QA & Software Testing
+
+- Designed and documented test cases based on application requirements.
+- Performed functional and UI validation.
+- Verified application features and user workflows.
+- Identified and documented defects during testing.
+- Worked with requirement analysis and feature verification.
+
+---
 ## 💻 Coding Profiles
 
 <p align="center">
