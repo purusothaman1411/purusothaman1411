@@ -151,30 +151,30 @@ Focused on computer applications, software development, programming, databases, 
 
 ---
 
----
-
----
-
 ## 📜 Certifications
 
 ### 🧪 Software Testing & QA
+
 - **[Certification Name]** — [Provider]
 - **[Certification Name]** — [Provider]
 
 ### ☕ Java & Programming
+
 - **[Certification Name]** — [Provider]
 - **[Certification Name]** — [Provider]
 
 ### 🌐 Full Stack Development
+
 - **[Certification Name]** — [Provider]
 - **[Certification Name]** — [Provider]
 
 ### 🤖 AI & Emerging Technologies
+
 - **[Certification Name]** — [Provider]
----
+
 ---
 
-## 💼 Experience
+## 💼 Development & Testing Experience
 
 ### Full Stack Development
 
@@ -198,6 +198,7 @@ Focused on computer applications, software development, programming, databases, 
 - Worked with requirement analysis and feature verification.
 
 ---
+
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -232,82 +233,6 @@ Currently exploring AI-assisted software development and modern development work
 | AI in Software Testing | Exploring AI-assisted test case generation and validation |
 | Developer Productivity | Using modern tools to improve development workflows |
 | Continuous Learning | Exploring emerging technologies in software development |
-
----
----
----
-
-## 💬 Open to Opportunities
-
-I'm open to connecting with recruiters, developers, and teams working on interesting software projects.
-
-Interested in opportunities related to:
-
-- Full Stack Development
-- Java Development
-- Frontend Development
-- QA & Software Testing
-- Junior Software Engineering
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://purusothaman1411.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="https://www.linkedin.com/in/purusothaman-s-829210293/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/purusothaman1411">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>Building with curiosity. Testing with purpose. Learning continuously.</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=purusothaman1411&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purusothaman1411&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=purusothaman1411&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 👀 Profile Metrics
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=purusothaman1411&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
-
-<img src="https://img.shields.io/github/followers/purusothaman1411?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub Followers" />
-
-<img src="https://img.shields.io/github/stars/purusothaman1411?label=Profile%20Stars&style=for-the-badge&color=7C3AED" alt="GitHub Stars" />
-
-</p>
 
 ---
 
