@@ -15,7 +15,6 @@
 
 ---
 
-
 # Hi, I'm Purusothaman S 👋
 
 ### Full Stack Developer | Java Developer | QA & Software Testing | MCA Graduate
