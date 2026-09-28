@@ -234,6 +234,39 @@ Currently exploring AI-assisted software development and modern development work
 | Continuous Learning | Exploring emerging technologies in software development |
 
 ---
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=purusothaman1411&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purusothaman1411&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=purusothaman1411&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 👀 Profile Metrics
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=purusothaman1411&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://img.shields.io/github/followers/purusothaman1411?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub Followers" />
+
+<img src="https://img.shields.io/github/stars/purusothaman1411?label=Profile%20Stars&style=for-the-badge&color=7C3AED" alt="GitHub Stars" />
+
+</p>
+
+---
 
 ## 🎯 Current Focus
 
