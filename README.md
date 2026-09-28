@@ -1,3 +1,21 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;QA+%26+Software+Testing;MCA+Graduate" alt="Typing SVG" />
+
+</div>
+
+<p align="center">
+  <a href="https://purusothaman1411.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-7C3AED?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/purusothaman-s-829210293/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+
 # Hi, I'm Purusothaman S 👋
 
 ### Full Stack Developer | Java Developer | QA & Software Testing | MCA Graduate
