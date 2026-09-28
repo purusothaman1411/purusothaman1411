@@ -153,6 +153,50 @@ Focused on computer applications, software development, programming, databases, 
 
 ---
 
+---
+
+## 📜 Certifications
+
+### 🧪 Software Testing & QA
+- **[Certification Name]** — [Provider]
+- **[Certification Name]** — [Provider]
+
+### ☕ Java & Programming
+- **[Certification Name]** — [Provider]
+- **[Certification Name]** — [Provider]
+
+### 🌐 Full Stack Development
+- **[Certification Name]** — [Provider]
+- **[Certification Name]** — [Provider]
+
+### 🤖 AI & Emerging Technologies
+- **[Certification Name]** — [Provider]
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/purusothaman1411">
+  <img src="https://img.shields.io/badge/GitHub-purusothaman1411-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/purusothaman-s-829210293/">
+  <img src="https://img.shields.io/badge/LinkedIn-Purusothaman%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</p>
+
+### Coding & Practice
+
+- 💻 **GitHub:** [github.com/purusothaman1411](https://github.com/purusothaman1411)
+- 🧩 **LeetCode:** [Add your LeetCode profile]
+- 🏆 **HackerRank:** [Add your HackerRank profile]
+- 💡 **GeeksforGeeks:** [Add your GeeksforGeeks profile]
+
+---
+
 ## 🤖 AI & Emerging Technology
 
 Currently exploring AI-assisted software development and modern development workflows.
