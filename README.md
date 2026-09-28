@@ -151,6 +151,22 @@ Focused on computer applications, software development, programming, databases, 
 
 ---
 
+---
+
+## 🤖 AI & Emerging Technology
+
+Currently exploring AI-assisted software development and modern development workflows.
+
+| Area | Focus |
+|---|---|
+| AI-Assisted Development | Using AI tools to support coding, debugging, and learning |
+| Prompt Engineering | Exploring effective prompts for development and testing tasks |
+| AI in Software Testing | Exploring AI-assisted test case generation and validation |
+| Developer Productivity | Using modern tools to improve development workflows |
+| Continuous Learning | Exploring emerging technologies in software development |
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
