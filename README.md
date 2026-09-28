@@ -235,6 +235,49 @@ Currently exploring AI-assisted software development and modern development work
 
 ---
 ---
+---
+
+## 💬 Open to Opportunities
+
+I'm open to connecting with recruiters, developers, and teams working on interesting software projects.
+
+Interested in opportunities related to:
+
+- Full Stack Development
+- Java Development
+- Frontend Development
+- QA & Software Testing
+- Junior Software Engineering
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://purusothaman1411.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://www.linkedin.com/in/purusothaman-s-829210293/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/purusothaman1411">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Building with curiosity. Testing with purpose. Learning continuously.</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
 
 ## 📊 GitHub Analytics
 
