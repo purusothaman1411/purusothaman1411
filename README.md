@@ -14,24 +14,27 @@
 <br><br>
 
 <a href="https://purusothaman1411.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <a href="https://www.linkedin.com/in/purusothaman-s-829210293/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="mailto:purusothamasaravanan786@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://github.com/purusothaman1411">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=purusothaman1411&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+
 <img src="https://img.shields.io/github/followers/purusothaman1411?label=Followers&style=for-the-badge&color=7C3AED" alt="Followers" />
+
 <img src="https://img.shields.io/github/stars/purusothaman1411?label=Stars&style=for-the-badge&color=7C3AED" alt="Stars" />
 
 </div>
@@ -73,7 +76,7 @@ My development approach focuses on writing maintainable code, understanding appl
 - 🧩 OOP, Collections, Exception Handling & File Handling
 - 🌐 React, JavaScript, Node.js, Express.js & Databases
 - 🧪 Test Case Design, Functional Testing & Bug Reporting
-- 🌱 Continuously learning and improving my development and testing skills
+- 🌱 Continuously learning and improving development and testing skills
 - 🚀 Interested in building reliable, practical, and user-focused software
 - 🔍 Interested in understanding requirements and validating software quality
 - 🤖 Exploring AI-assisted development and modern software workflows
@@ -340,8 +343,7 @@ Focused on:
 
 ### 🌐 Full Stack Development
 
- **Full Stack Development** — SDLC, Namakkal
-
+- **Full Stack Development** — SDLC, Namakkal
 
 ### 🤖 AI & Emerging Technologies
 
@@ -354,11 +356,11 @@ Focused on:
 <p align="center">
 
 <a href="https://github.com/purusothaman1411">
-  <img src="https://img.shields.io/badge/GitHub-purusothaman1411-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-purusothaman1411-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/purusothaman-s-829210293/">
-  <img src="https://img.shields.io/badge/LinkedIn-Purusothaman%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Purusothaman%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </p>
@@ -389,13 +391,16 @@ Focused on:
 
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=purusothaman1411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=purusothaman1411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
+
 ---
 
 ## 📈 Contribution Activity
@@ -424,7 +429,6 @@ Focused on:
 current_focus:
 
   Learning:
-    - Java Development
     - Advanced Core Java
     - Object-Oriented Programming
     - Full Stack Web Development
