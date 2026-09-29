@@ -412,7 +412,7 @@ Focused on:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/purusothaman1411/purusothaman1411/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/purusothaman1411/purusothaman1411/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
