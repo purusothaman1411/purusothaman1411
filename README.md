@@ -340,8 +340,8 @@ Focused on:
 
 ### 🌐 Full Stack Development
 
-- **[Certification Name]** — [Provider]
-- **[Certification Name]** — [Provider]
+ **Full Stack Development** — SDLC, Namakkal
+
 
 ### 🤖 AI & Emerging Technologies
 
